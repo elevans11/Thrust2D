@@ -1,0 +1,4 @@
+# Data file
+# All rows that do not contain data need to start with '#'!
+# X (km)	Horizontal (mm or mm/yr)	Vertical (mm or mm/yr)
+		

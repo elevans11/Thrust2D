@@ -1,0 +1,6 @@
+# Fault Geometry file; this one has slip rates in it
+# All rows that do not contain data need to start with '#'!
+# z-values should be negative for depth
+# x1 (km)	z1 (km)	x2 (km)	z2 (km)	s (mm or mm/yr)
+33.000000	0.000000	41.000000	-10.000000	0.000000
+41.000000	-10.000000	46.000000	-15.000000	10.000000
